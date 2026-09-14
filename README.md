@@ -1,4 +1,4 @@
-# Mini Plataforma de E-commerce com Next.js
+# Plataforma de E-commerce com Next.js
 
 ![Mini Plataforma Screenshot](https://i.imgur.com/RETNpXq.png)
 ![Detalhes do produto](https://i.imgur.com/ab0htkg.png)
